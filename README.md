@@ -10,3 +10,5 @@ Finally, ComputerPlayer classes performs the control logic (in this program a ra
 <p>This game is also configured to use Cmake to build the program, thus allows IDE others than Qt Creator to inspect and build the program.</p>
 <p>Note: In the following file <pre>CMakeLists.txt</pre> Please change the path in <code>CMAKE_PREFIX_PATH</code> to the folder that contains CMake configuration in Qt folder in your computer.
 It usually has path looks something like <code>....Qt/6.2.1/macos/lib/cmake</code></p>
+<hr>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
