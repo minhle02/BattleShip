@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ShipIcons/battleship.png</file>
+        <file>ShipIcons/blank.png</file>
+        <file>ShipIcons/boom.png</file>
+        <file>ShipIcons/carrier.png</file>
+        <file>ShipIcons/cruiser.png</file>
+        <file>ShipIcons/destroyer.png</file>
+        <file>ShipIcons/fire.png</file>
+        <file>ShipIcons/submarine.png</file>
+    </qresource>
+</RCC>
